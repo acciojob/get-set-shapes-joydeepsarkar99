@@ -4,10 +4,10 @@ class Rectangle {
 		this.width = width
 		this.height = height
 	}
-	get _width(){
+	getWidth(){
 		return this.width
 	}
-	get _height(){
+	getHeight(){
 		return this.height
 	}
 	getArea(){
